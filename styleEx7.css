@@ -258,6 +258,9 @@ nav>div{
         display: block;
         justify-items: center;
     }
+     .cont1{
+        width: 100%;
+    }
      .cont1-b{
         width: 100%;
     }
@@ -310,6 +313,9 @@ nav>div{
         text-align: center;
         display: block;
         justify-items: center;
+    }
+     .cont1{
+        width: 100%;
     }
      .cont1-b{
         width: 100%;

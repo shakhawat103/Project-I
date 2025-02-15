@@ -248,6 +248,11 @@ nav>div{
         display: block;
         justify-items: center;
     }
+    .div1{
+        width: 100%;
+        padding: 10px;
+        word-break: break-all;
+    }
     .cont1-a{
         text-align: center;
         display: block;

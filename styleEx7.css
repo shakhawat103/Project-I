@@ -263,6 +263,7 @@ nav>div{
     }
      .cont1-b{
         width: 100%;
+        text-align: justify;
     }
     .cont2-b-i>.box{
         height: 200px;
@@ -319,6 +320,7 @@ nav>div{
     }
      .cont1-b{
         width: 100%;
+        text-align: justify;
     }
     .cont2-b-i>.box{
         height: 200px;
